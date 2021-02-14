@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "active=false": { "model":  "dnm:block/altar_inactive"},
+    "active=true": { "model":  "dnm:block/altar"}
+  }
+}

@@ -10,5 +10,6 @@ public class DefinitelyNotMinecraft implements ModInitializer {
     @Override
     public void onInitialize() {
         CoreItems.registerItems();
+        CoreBlocks.registerBlocks();
     }
 }
